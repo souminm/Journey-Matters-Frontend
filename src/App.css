@@ -509,6 +509,7 @@ only screen and (max-width: 760px),
 
 .about-module .card{
   height: 75rem;
+  margin: 1rem;
 }
 .about-module .card .card-container{
   height: 70rem;
