@@ -105,9 +105,8 @@ const Header = () => {
 
           {/* hamburget menu start  */}
           <div className="hamburger-menu">
-            <button onClick={() => setShowMediaIcons(!showMediaIcons)}>
+            <button onClick={() => setShowMediaIcons(!showMediaIcons)}></button>
               <GiHamburgerMenu />
-           </button>
           </div>
         </div>
       </nav>
